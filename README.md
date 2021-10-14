@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Peter Funtík
-- 👀 I’m currently active programming apps using WPF (C# .NET), MS SQL, ASP.NET
+- 👀 I’m currently active programming apps using WPF (C# .NET), MS SQL, ASP.NET, .NET Core, Razor pages, Blazor
       Recently development front end application for Prima banka Slovensko, a.s.
       Previously since 1996 long-term Lotus Notes professional administration Lotus Domino and
       programming Lotus Notes R3 - R9x, using Lotus Script, Lotus Formula and Java.
